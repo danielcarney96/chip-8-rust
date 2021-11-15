@@ -2,6 +2,8 @@
 
 This is a chip-8 interpreter build with Rust. The repo also includes a couple of roms you can try, feel free to find and use more.
 
+<img width="1275" alt="Screenshot 2021-11-15 at 18 15 19" src="https://user-images.githubusercontent.com/54840294/141833345-46df9062-4ea1-4b69-a91d-293479d5fc4c.png">
+
 ## Requirements
 You need to install sdl2 on your system along with Rust.
 
